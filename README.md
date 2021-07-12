@@ -37,7 +37,7 @@ This Project repository Contains 2 folders :
 * [Features](#features)
 * [Installation](#installation)
 * [Screeshots](#screeshots)
-* [Learning From This Project](#learnings)
+* [Learning From The Project](#learnings)
 * [Challenges Faced](#challenges-i-faced)
 
 
@@ -55,8 +55,6 @@ To make this application I use Agile Development and Work on **4 sprints** of `1
 
 
 
-<br/>
-
 
 
 ## Tech Stack/Tools 🔧
@@ -73,7 +71,7 @@ To make this application I use Agile Development and Work on **4 sprints** of `1
 * ChantEngine
 * Firebase
 
-<br/>
+
 
 ## Features 🌟
 
@@ -108,13 +106,13 @@ To make this application I use Agile Development and Work on **4 sprints** of `1
 ✅ Log out option 
 
 
-<br/>
+
 
 ## Installation
 
 To use this project follow these steps:
 
-For Frontend of this prject
+For Frontend of the project
 
       npm init
 
@@ -146,5 +144,28 @@ For Frontend of this prject
 
 
 
+## Learning From the Project
+
+It's an amazing experience to be part of this amazing Microsoft Engage Program'2021. From working on the frontend to become a person to deploy a full stack web application, I learned alot through this journey and under the guidance of my mentors Ashutosh Parija Sir and Saahiljeet Sir.
+
+• I learn backend programming which I never did before.
+
+• Get to know about Agile methodology and how it work in industries from Agile workshops.
+
+• Get knowledge about different libraries and APIs.
+
+• Learned Reactjs and Nodejs both are new to me.
+
+• Did so many errors while implementing even a mandatory feature but debugging my code is also a great way of getting knowledge. 
+
+• Happy that I prepared a whole full stack project for my own with so many features which is not possible without these deadlines.
+
+
+
+## Challenges
+
+• Previously I don't have any knowledge about any webrtc and peerjs libraries or working with  API so its kinda tough to go through their  documentation and then learn and implementing that stuff. 
+
+• Faced difficulty in storing chat history.
 
 
