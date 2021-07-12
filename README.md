@@ -43,11 +43,11 @@ To make this application I use Agile Development and Work on **4 sprints** of `1
 
 
 <br/>
-<!-- ## Table of Content 📑:
-* Tech Stack 
+## Table of Content 📑:
+* [Tech Stack/Tools](#Tech-stack/Tools) 
 * Features
 * Site Map
-* Screeshots -->
+* Screeshots
 
 
 ## Tech Stack/Tools 🔧
