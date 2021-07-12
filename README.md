@@ -1,6 +1,4 @@
-<!-- [Screenshot 2021-07-12 120214](https://user-images.githubusercontent.com/67700414/125241454-161ad480-e309-11eb-9277-2ed0cb1ecd8a.jpg) --> 
-<!--  ![Screenshot 2021-07-12 120043](https://user-images.githubusercontent.com/67700414/125241246-d522c000-e308-11eb-8130-7e7f689dd052.jpg) -->
-<!-- ![icon](https://user-images.githubusercontent.com/67700414/125246511-8167a500-e30f-11eb-99eb-9a43e412fc33.jpg height="10px") -->
+
 
 # Microsoft Teams Clone 🌈
 
@@ -10,7 +8,7 @@
 
 <br/>
 
-**View Deployed webSite Here** 🌐  https://microsoft-teams-clone-bysejal.netlify.app/
+**View Deployed WebSite Here** 🌐  https://microsoft-teams-clone-bysejal.netlify.app/
 
 
 
@@ -40,7 +38,7 @@ To make this application I use Agile Development and Work on **4 sprints** of `1
 
 **Phase 3 - Building Phase:** Here I start working on the mandatory feature of the project that is to make video call with peers. For this part I used WebRTC Peer to peer library, Nodejs, Socket.io, Express. After that I work on the Group Chat Feature which I made using React, Chatengine.io.
 
-**Phase 3** - WOrk on refine my codebase and UI of the project.
+**Phase 3** - Work on refining my codebase and UI of the project.
 
 
 
@@ -54,7 +52,7 @@ To make this application I use Agile Development and Work on **4 sprints** of `1
 
 ## Tech Stack/Tools 🔧
 
-* React
+* Reactjs
 * Nodejs
 * WebRTC Reer to Peer library
 * Socket.io
@@ -62,6 +60,7 @@ To make this application I use Agile Development and Work on **4 sprints** of `1
 * Html
 * CSS
 * JavaScript
+* Ejs
 * ChantEngine
 * Firebase
 
@@ -85,7 +84,7 @@ To make this application I use Agile Development and Work on **4 sprints** of `1
 
 ✅ Group chatting or make Groups 
 
-✅ Add anyone or remove them from the group
+✅ Add anyone or remove people from the group
 
 ✅ Who saws the messages
 
