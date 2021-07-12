@@ -8,7 +8,7 @@
   <br/>
 `Your docs, photos, videos, chat history and meeting notes are always there, so it’s easier to work together.`
 
-
+<br/>
 **View Deployed webSite Here** 🌐  https://microsoft-teams-clone-bysejal.netlify.app/
 
 
@@ -17,6 +17,11 @@
 ## Vision ✨
 
 `Microsoft Teams` is used to help teams work together remotely. You can find chat, video calls, and other tools within this application. It allows you to work effectively online with others alongside anytime anywhere. In my clone you just need to sign up with your Google or Facebook accounts then you can use any feature.
+
+This Project repository Contains 2 folder: 
+'Frontend' In this the user authentication and group chat feature is deployed.
+'Backend'  The Video call featire that is the backend of this project is built in this folder.
+
 
 <br/>
 
@@ -89,6 +94,7 @@ To make this application I use Agile Development and Work on **4 sprints** of `1
 
 
 <br/>
+
 ## ScreenShots 📸
 
 ![Screenshot 2021-07-12 120214](https://user-images.githubusercontent.com/67700414/125249996-68f98980-e313-11eb-91e5-aea6ef19e9aa.jpg)
