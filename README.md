@@ -110,6 +110,30 @@ To make this application I use Agile Development and Work on **4 sprints** of `1
 
 <br/>
 
+## Installation
+
+To use this project follow these steps:
+
+For Frontend of this prject
+
+      npm init
+
+      npm start
+      
+      run on localhost:3000
+      
+ 
+ For Backend of the project
+ 
+      npm install express ejs socket.io uuid peer
+      
+      npm install — dev nodemon
+      
+      peerjs --port 443 --path /peerjs
+      
+      nodemon server.js
+
+
 ## ScreenShots 📸
 
 ![Screenshot 2021-07-12 120214](https://user-images.githubusercontent.com/67700414/125249996-68f98980-e313-11eb-91e5-aea6ef19e9aa.jpg)
