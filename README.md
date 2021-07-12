@@ -1,7 +1,9 @@
 
 ![th](https://user-images.githubusercontent.com/67700414/125295999-74fd3f80-e343-11eb-98b5-01e5c66fc3fa.jpg)
 
-# Microsoft Teams Clone 🌈
+# *Let's build and Connect together* 🌈
+
+# Facetime - A Microsoft Teams Clone 
 
   `Whether it’s chat, calls, or video, anyone can engage at any time, bringing everyone closer.`
   <br/>
