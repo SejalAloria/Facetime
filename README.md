@@ -74,13 +74,15 @@ To make this application I use Agile Development and Work on **4 sprints** of `1
 
 ✅ Inviting people with the invite button
 
+✅ Unique room id for every meeting
+
 ✅ Camera on or off functionality
 
-✅ Microphone on or off functionality
+✅ Microphone mute/unmute functionality
 
 ✅ Screen sharing feature
 
-✅ Chatting whitout interrupting the meeting
+✅ In-meeting Chat
 
 ✅ Group chatting or make Groups 
 
