@@ -54,7 +54,7 @@ To make this application I use Agile Development and Work on **4 sprints** of `1
 
 * Reactjs
 * Nodejs
-* WebRTC Reer to Peer library
+* WebRTC Peer to Peer library
 * Socket.io
 * Express
 * Html
