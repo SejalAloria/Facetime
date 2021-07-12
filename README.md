@@ -19,11 +19,11 @@
 
 `Microsoft Teams` is used to help teams work together remotely. You can find chat, video calls, and other tools within this application. It allows you to work effectively online with others alongside anytime anywhere. In my clone you just need to sign up with your Google or Facebook accounts then you can use any feature.
 
-This Project repository Contains 2 folder: 
+This Project repository Contains 2 folders : 
 
-'Frontend' In this the user authentication and group chat feature is deployed.
+`Frontend` In this the user authentication and group chat feature is deployed.
 
-'Backend'  The Video call feature that is the backend of this project is built in this folder.
+`Backend`  The Video call feature that is the backend of this project is built in this folder.
 
 
 <br/>
