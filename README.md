@@ -1,4 +1,5 @@
 
+![th](https://user-images.githubusercontent.com/67700414/125295999-74fd3f80-e343-11eb-98b5-01e5c66fc3fa.jpg)
 
 # Microsoft Teams Clone 🌈
 
@@ -38,7 +39,7 @@ This Project repository Contains 2 folders :
 * [Screeshots](#screeshots)
 * [Learning From This Project](#learnings)
 * [Challenges Faced](#challenges-i-faced)
-* 
+
 
 ## Adopt Agile Methodology 💻
 
