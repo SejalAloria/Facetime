@@ -28,6 +28,18 @@ This Project repository Contains 2 folders :
 
 <br/>
 
+## Table of Content 📑:
+
+
+* [Agile Development](#adopt-agile-development)
+* [Tech Stack/Tools](#tech-stack/tools) 
+* [Features](#features)
+* [Installation](#installation)
+* [Screeshots](#screeshots)
+* [Learning From This Project](#learnings)
+* [Challenges Faced](#challenges-i-faced)
+* 
+
 ## Adopt Agile Methodology 💻
 
 To make this application I use Agile Development and Work on **4 sprints** of `1 week each`.
@@ -44,13 +56,6 @@ To make this application I use Agile Development and Work on **4 sprints** of `1
 
 <br/>
 
-## Table of Content 📑:
-
-
-* [Tech Stack/Tools](#tech-stack/tools) 
-* Features
-* Site Map
-* Screeshots
 
 
 ## Tech Stack/Tools 🔧
